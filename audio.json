@@ -141,7 +141,7 @@
       "name_category": "5 Minutes",
       "title": "Ampuni Aku",
       "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
-      "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Ampuni%20Aku%20-%20Five%20Minutes.mp3g",
+      "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Ampuni%20Aku%20-%20Five%20Minutes.mp3",
       "duration": "225",
       "lyrics": "
     },
@@ -162,8 +162,7 @@
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Ampuni%20Dosaku%20-%20dBagindas.mp3",
       "duration": "246",
       "lyrics": ""
-    }
-  ,
+    },
     {
       "id": 5,
       "name_category": "Unggu",
@@ -172,8 +171,7 @@
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Andai%20Ku%20Tahu%20-%20Ungu.mp3",
       "duration": "290",
       "lyrics": ""
-    }
-  ,
+    },
     {
       "id": 6,
       "name_category": "Dadaly",
@@ -218,8 +216,7 @@
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Dengan%20NafasMu%20-%20Ungu.mp3",
       "duration": "266",
       "lyrics": ""
-    }
-  ,
+    },
     {
       "id": 11,
       "name_category": "Chris Y",
@@ -228,8 +225,7 @@
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Damai%20Bersamamu%20-%20Chrisye.mp3",
       "duration": "307",
       "lyrics": ""
-    }
-  ,
+    },
     {
       "id": 12,
       "name_category": "Unggu",
@@ -300,7 +296,8 @@
       "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/Ketika%20Tangan%20dan%20Kaki%20Berkata%20-%20Chrisye.mp3",
       "duration": "242",
-      "lyrics": "" },
+      "lyrics": "" 
+    },
     {
       "id": 20,
       "name_category": "BCL",
@@ -308,7 +305,8 @@
       "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
       "link_mp3": "http://archive.org//download/lagu-religi-islami-mp3-ramadan/KuasaMu%20-%20Bunga%20Citra%20Lestari.mp3",
       "duration": "245",
-      "lyrics": "" },
+      "lyrics": "" 
+    },
     {
       "id": 21,
       "name_category": "Raja",
