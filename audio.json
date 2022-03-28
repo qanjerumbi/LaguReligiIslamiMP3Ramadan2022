@@ -8,7 +8,7 @@
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -22,28 +22,28 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
+      "name_category": "Papinka",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0rgI-MpEtnfq_TE6L8LMpQAAAA&pid=Api&P=0&w=177&h=177"
     },
     {
       "id": 2,
-      "name_category": "Hanan Attaki",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
+      "name_category": "Five Minutes",
+      "image": "https://3.bp.blogspot.com/-A641V3QL4eY/WrR-7PDtUAI/AAAAAAAAA_g/rxzubonpyJ85igsZpDP1WMEskIH0e0GzwCLcBGAs/s1600/Ampuni%2BAku%2B-%2BSingle.jpg"
     },
     {
       "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
+      "name_category": "Repvblik",
+      "image": "https://i.ytimg.com/vi/aR46LRTb7c4/maxresdefault.jpg"
     },
     {
       "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
+      "name_category": "D'bagindas",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.TCsaCWt9_EHUa7AdeAxzmQAAAA&pid=Api&P=0&w=251&h=166"
     },
     {
       "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+      "name_category": "Ungu",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.ThlCHav7fQ7vnNxMNCvKrAHaHa&pid=Api&P=0&w=160&h=160"
     }
   ],
   "Data": [
