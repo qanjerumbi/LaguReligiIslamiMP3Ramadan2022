@@ -315,6 +315,186 @@
       "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Malam%201000%20Bulan%20-%20Radja.mp3",
       "duration": "279",
       "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "DeBagindaz",
+      "title": "Marhaban Ya Ramadhan",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Marhaban%20Ya%20Ramadhan%20-%20DBagindas.mp3",
+      "duration": "228",
+      "lyrics": "" 
+    },
+    {
+      "id": 23,
+      "name_category": "ES T 12",
+      "title": "Memuja-Mu",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/MemujaMu%20-%20ST12.mp3",
+      "duration": "265",
+     "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "De Masivv",
+      "title": "Mohon Ampun Aku",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Mohon%20Ampun%20Aku%20-%20DMASIV.mp3",
+      "duration": "228",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Maheer Zein",
+      "title": "Ramadan",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Ramadan%20-%20Maher%20Zain.mp3",
+      "duration": "307",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Opik",
+      "title": "Rapuh",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Rapuh%20-%20Opick.mp3",
+      "duration": "288",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Dadaly",
+      "title": "Renungan Malam",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Renungan%20Malam%20-%20Dadali.mp3",
+      "duration": "274",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Noaah",
+      "title": "Sajadah Panjang",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Sajadah%20Panjang%20-%20NOAH.mp3",
+      "duration": "258",
+      "lyrics": "" 
+    },
+    {
+      "id":29,
+      "name_category": "Letoo",
+      "title": "Sebelum Cahaya",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Sebelum%20Cahaya%20-%20Letto.mp3",
+      "duration": "245",
+      "lyrics": "" 
+    },
+    {
+      "id": 30,
+      "name_category": "Ustadz Uje",
+      "title": "Sepohon Kayu",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Sepohon%20kayu%20-%20Ustadz%20Jefri%20Al%20Bukhori.mp3",
+      "duration": "261",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "Setia Ben",
+      "title": "Sholat",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Sholat%20-%20Setia%20Band.mp3",
+      "duration": "281",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Republyk",
+      "title": "Sujudku",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Sujudku%20-%20Repvblik.mp3",
+      "duration": "243",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Enda & Zara L",
+      "title": "Surga-Mu",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/SurgaMu%20-%20Enda%20Zara%20Leola.mp3",
+      "duration": "275",
+      "lyrics": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Unggu",
+      "title": "Syukur Alhamdulillah",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Syukur%20Alhamdulillah%20-%20Ungu.mp3",
+      "duration": "287",
+      "lyrics": "" 
+    },
+    {
+      "id": 35,
+      "name_category": "Noaah",
+      "title": "Tak Ada Yang Abadi",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Tak%20Ada%20Yang%20Abadi%20-%20Noah.mp3",
+      "duration": "249",
+      "lyrics": "" 
+    },
+    {
+      "id": 36,
+      "name_category": "Opik",
+      "title": "Takdir",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Takdir%20-%20Opick%20feat%20Melly%20Goeslaw.mp3",
+      "duration": "256",
+      "lyrics": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Roosa",
+      "title": "Takkan Berpaling Dari-Mu",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Takkan%20Berpaling%20Darimu%20-%20ROSSA.mp3",
+      "duration": "287",
+      "lyrics": ""
+    },
+    {
+      "id": 38,
+      "name_category": "De Masivv",
+      "title": "Tola Al Badru",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/TalaAl%20Badru%20-%20DMASIV%20with%20Raef.mp3",
+      "duration": "289",
+      "lyrics": ""
+    },
+    {
+      "id": 39,
+      "name_category": "De Masivv",
+      "title": "Taman Surga-Mu",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Taman%20SurgaMu%20-%20DMASIV.mp3",
+      "duration": "287",
+      "lyrics": ""
+    },
+    {
+      "id": 40,
+      "name_category": "9 Ball",
+      "title": "Taubat",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia902206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Taubat%20-%20Nineball.mp3",
+      "duration": "262",
+      "lyrics": "" 
+    },
+    {
+      "id": 41,
+      "name_category": "Nijii",
+      "title": "Vibrasi Dua Arah",
+      "image": "file:///android_asset/image/LaguReligiIslami-Ramadan2022.png",
+      "link_mp3": "https://ia802206.us.archive.org/11/items/lagu-religi-islami-mp3-ramadan/Vibrasi%20Dua%20Arah%20-%20Nidji.mp3",
+      "duration": "291",
+      "lyrics": "" 
     }
   ]
 }
