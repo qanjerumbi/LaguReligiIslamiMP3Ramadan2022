@@ -1,21 +1,21 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_main_ads": "STARTAPP",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-5186865206665538/8780493630",
       "main_ads_intertitial":"ca-app-pub-5186865206665538/7375078473",
-      "backup_ads_banner":"cc0b5a5b3e36b1e0",
-      "backup_ads_intertitial":"b63a25ab694133f8",
-      "interval_intertitial": 15,
-      "initialize_sdk":"",
+      "backup_ads_banner":"cc0b5a5b3e36b1e0X",
+      "backup_ads_intertitial":"b63a25ab694133f8X",
+      "interval_intertitial": 1,
+      "initialize_sdk":"207987925",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
       "high_paying_keyword_4": "",
       "high_paying_keyword_5": "",
-      "status_app": "1",
+      "status_app": "0",
       "link_redirect": "https://play.google.com/store/apps/details?id=com.zerocorp.volkswagenwallpaper"
     }
   ],
